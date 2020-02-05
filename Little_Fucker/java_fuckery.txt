@@ -1,0 +1,1 @@
+Array(26).map((e, i) => String.fromCharCode(i+97)).sort()
