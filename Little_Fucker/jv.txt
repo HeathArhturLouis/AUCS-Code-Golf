@@ -1,0 +1,1 @@
+[...Array(o).keys()].map(e => ++e).filter((e,i) => [...Array(i).keys()].map(e => ++e).every(f => e%f==0))
