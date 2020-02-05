@@ -1,0 +1,1 @@
+r=range;[print(chr(i)) for i in r(65,91) for _ in r(4)]
